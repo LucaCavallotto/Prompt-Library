@@ -29,3 +29,5 @@ Use the same clean Markdown formatting as the SAPORIUM example (bolding for emph
 Analyze my specific settings (like package.json, requirements.txt, pyproject.toml, or next.config.js) to ensure the stack table is 100% accurate.
 
 Tone: Professional, structured, and developer-centric.
+
+Update prompt: Update my CLAUDE.md file to remove anything that's no longer needed, contradictory, duplicate information or unnecessary bloat impacting effectiveness.
