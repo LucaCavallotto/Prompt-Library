@@ -10,4 +10,4 @@ A collection of high-performance prompts for coding, note-taking and architectur
 - **[Video to Notes](./notes/video-to-notes.md)**: Generate structured study notes from video content.
 
 ### 🧩 Templates
-- **[Structured Task](./prompt_structured-task.md)**: Template for defining consistent AI prompt structures.
+- **[Structured Task](./templates/prompt_structured-task.md)**: Template for defining consistent AI prompt structures.
